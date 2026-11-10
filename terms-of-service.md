@@ -54,9 +54,13 @@ Your saved lives are stored **only on your device**. We don't keep a copy. Unins
 
 We may update the game: add, change or remove features or content, fix bugs, or rebalance how things work. Some updates may be needed to keep playing. We may also stop offering the game at some point.
 
+## Outside services
+
+The game uses services from other companies: **Google Play** or the **Apple App Store** (downloads and purchases), **Google AdMob** (ads in the free version) and **Unity Analytics** (how the game is used). Those services have their own terms and privacy policies, and we aren't responsible for how they work.
+
 ## Privacy
 
-Our [Privacy Policy](/privacy-policy) explains what information the game uses and where it goes. It's part of these terms.
+Our [Privacy Policy](/privacy-policy) explains what information the game and these services use and where it goes. It's part of these terms.
 
 ## No warranty
 
