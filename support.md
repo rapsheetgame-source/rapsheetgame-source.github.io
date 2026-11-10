@@ -22,11 +22,11 @@ They're stored on your device. Uninstalling the game deletes them.
 Sign in to the same Google Play or Apple account, open the game, and use **Restore Purchases**.
 
 **Is Rap Sheet for kids?**
-No. Rap Sheet is a crime life sim for teens and adults. See the age rating on the store.
+No. Rap Sheet is a crime life sim for adults (18 and older).
 
 ## Privacy
 
-Read our [privacy policy](/privacy-policy).
+Read our [privacy policy](/privacy-policy) and [terms of service](/terms-of-service).
 
 ---
 Rap Sheet © 2026 LLgengames
